@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Course Information
-subtitle: all the usual info...
+title: Course Info
 ---
 
 ## Who / what / where / when
 
-**Lectures**: MWF 1-2pm inHugh Dempster Pavilion (DMP) 110
+**Lectures**: MWF 1-2pm in Hugh Dempster Pavilion (DMP) 110
 
 **Tutorials**:
+
 | Section | Place | Time | TA |
 |---------|-------|------|----|
 | T2A     | DMP 101 | M 4-5 pm | TBD |
@@ -16,6 +16,7 @@ subtitle: all the usual info...
 | T2C     | DMP 201 | T 2-3pm | TBD |
 
 **Office hours**:
+
 | Person | Time | Place |
 |--------|------|-------|
 | TBD | TBD | TBD |
