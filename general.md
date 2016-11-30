@@ -25,7 +25,13 @@ title: Course Info
 
 **Instructor**: [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/)
 
-**Teaching Assistants**: TBD
+**Teaching Assistants**: 
+
+- Ricky Chen
+- Ritika Jain
+- Issam Laradji
+- Bita Nejat
+- Wenyi Wang
 
 **Synopsis**: We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
 
