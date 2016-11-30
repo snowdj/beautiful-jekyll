@@ -5,6 +5,9 @@ title: Course Info
 
 ## Who / what / where / when
 
+**Synopsis**: We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
+
+
 **Lectures**: MWF 1-2pm in Hugh Dempster Pavilion (DMP) 110
 
 **Tutorials**:
@@ -32,8 +35,6 @@ title: Course Info
 - Issam Laradji
 - Bita Nejat
 - Wenyi Wang
-
-**Synopsis**: We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
 
 ## Prerequisites
 * Basic algorithms and data structures (CPSC 221, or both of CPSC 260 and EECE 320 as well as one of CPSC 210, EECE 201, or EECE 309).
