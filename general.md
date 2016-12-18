@@ -20,10 +20,7 @@ title: Course Info
 
 **Office hours**:
 
-| Person | Time | Place |
-|--------|------|-------|
-| TBD | TBD | TBD |
-| ... | ... | ... |
+See the [course calendar](https://ubc-cs.github.io/cpsc340/calendar/).
 
 
 **Instructor**: [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/)
