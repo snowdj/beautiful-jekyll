@@ -75,7 +75,7 @@ The grading scheme for the course is as follows:
 | Final | 45% |
 
 ## Q&A
-We will use [Piazza](piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions.
+We will use [Piazza](www.piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions.
 
 ## Attribution
 Most of the content on this page was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
