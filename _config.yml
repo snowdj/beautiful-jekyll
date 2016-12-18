@@ -25,7 +25,7 @@ description: Machine Learning and Data Mining (2016W2)
 navbar-links:
   Course Info: "general"
   Calendar: "calendar"
-  Piazza: "www.piazza.com/ubc.ca/winterterm22016/cpsc340/home"
+  Piazza: "https://piazza.com/ubc.ca/winterterm22016/cpsc340/home"
   UBC Github: "https://github.ubc.ca" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
