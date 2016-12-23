@@ -63,6 +63,12 @@ Related courses that have online notes
 * [Mining Massive Data Sets](http://web.stanford.edu/class/cs246/handouts.html) (Stanford)
 * [Data Mining](http://www.stat.cmu.edu/~ryantibs/datamining/) (CMU)
 
+## Programming environment
+
+We will be using Python for this course because it is open source and widely used in machine learning and data science. We recommend Python 3.5 because of some minor conveniences: dividing two integers returns a float by default, it has nice syntax like `x@y` for matrix multiplication, etc. However, we recognize that Python 2.7 is still the dominant version (inside and outside machine learning) and therefore we will _try_ to maintain Python 2.7 compatibility in all our materials. You can find more info online; see, for example, [Python 3 in 2016](https://hynek.me/articles/python3-2016/).
+
+We recommend the Anaconda Python distribution because it comes bundled with a bunch of useful libraries (NumPy, SciPy, Jupyter notebook). You can [download Anaconda from their website](https://www.continuum.io/downloads) for free.  
+
 ## Grading
 The grading scheme for the course is as follows:
 
