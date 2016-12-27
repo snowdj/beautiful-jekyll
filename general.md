@@ -18,6 +18,8 @@ title: Course Info
 | T2B     | DMP 101 | M 3-4 pm |
 | T2C     | DMP 201 | T 2-3pm |
 
+Tutorials are optional and start on the second week of classes (2017-01-09). 
+
 **Office hours**: See the [course calendar](https://ubc-cs.github.io/cpsc340/calendar/).
 
 
