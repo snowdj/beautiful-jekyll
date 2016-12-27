@@ -117,6 +117,10 @@ For almost all students, CPSC 340 is the right class to take:
  - CPSC 540 is intended as a continuation of CPSC 340.
  - You’ll miss important topics if you skip CPSC 340.
 
+## CPSC 340 in Term 1 vs. Term 2
+
+This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main difference is the switch from Matlab to Python.
+
 
 ## Attribution
 Most of the content on this page was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
