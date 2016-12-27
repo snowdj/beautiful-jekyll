@@ -32,13 +32,16 @@ title: Course Info
 - Wenyi Wang
 
 ## Prerequisites
-* Basic algorithms and data structures (CPSC 221, or both of CPSC 260 and EECE 320 as well as one of CPSC 210, EECE 201, or EECE 309).
-* Linear algebra (one of MATH 152, 221, or 223).
-* Probability (one of STAT 200, STAT 203, STAT 241, STAT 251, STAT 302, MATH 302, MATH 318, or BIOL 300).
-* Multivariate calculus (one of MATH 200, 217, 226, 253, or 263).
+
+ - Basic algorithms and data structures (CPSC 221, or both of CPSC 260 and EECE 320 as well as one of CPSC 210, EECE 201, or EECE 309).
+ - Linear algebra (one of MATH 152, 221, or 223).
+ - Probability (one of STAT 200, STAT 203, STAT 241, STAT 251, STAT 302, MATH 302, MATH 318, or BIOL 300).
+ - Multivariate calculus (one of MATH 200, 217, 226, 253, or 263).
 
 NOTE: since multivariate calculus is a new prerequisite, for the 2016-17 year only we are allowing MATH 200 (equivalent) to be taken as a co-requisite provided that the average of the other MATH/STAT prerequisites is at least 76%. Other courses that are helpful but not required include scientific computing (CPSC 302), algorithms and complexity (CPSC 320), and statistical inference (STAT 305).
-Registration: Undergraduate and graduate students from any department are welcome to take the class, provided that they satisfy the prerequisites. If you do not satisfy the exact prerequisites but would still like to enroll in the class, there are additional details available [here](https://www.cs.ubc.ca/~schmidtm/Courses/340_prereqs.pdf) and [here](https://www.cs.ubc.ca/students/grad/registration/grads-outside-cs).
+
+## Registration
+Undergraduate and graduate students from any department are welcome to take the class, provided that they satisfy the prerequisites. If you do not satisfy the exact prerequisites but would still like to enroll in the class, there are additional details available [here](https://www.cs.ubc.ca/~schmidtm/Courses/340_prereqs.pdf) and [here](https://www.cs.ubc.ca/students/grad/registration/grads-outside-cs).
 
 The general seats available in this class usually fill up very quickly. Because of this, we have reserved a small number of restricted seats for CPSC graduate students. These seats will turn into general seats at the end of the first week of class.
 
