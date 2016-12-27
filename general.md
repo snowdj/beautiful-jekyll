@@ -91,5 +91,21 @@ The grading scheme for the course is as follows:
 ## Q&A
 We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions.
 
+## CPSC 340 vs. CPSC 540
+
+Our department also offers a graduate ML course, CPSC 540:
+
+ - More advanced material.
+ - More focus on theory/implementation, less focus on applications.
+ - More prerequisites and higher workload.
+ - Offered in Term 2 (now)
+
+For almost all students, CPSC 340 is the right class to take:
+
+ - CPSC 340 focuses on the most widely-used methods in practice.
+ - CPSC 540 is intended as a continuation of CPSC 340.
+ - You’ll miss important topics if you skip CPSC 340.
+
+
 ## Attribution
 Most of the content on this page was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
