@@ -99,6 +99,17 @@ The grading scheme for the course is as follows:
 | Midterm  | 30%
 | Final | 45% |
 
+## Homework submission
+
+All homework submission will take place through [github.ubc.ca](https://github.ubc.ca/). Within UBC GitHub there is an internal course homepage at <https://github.ubc.ca/cpsc340/home>. From there you can access the homework instructions document, which explains how to submit your homework, how to work with a partner, what happens if your homework is late, and more. Please read that document carefully.
+
+## Midterm
+
+The midterm exam will take place on **March 1, 2017 in class**. 
+
+**Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, you must provide a justified and documented reason to the instructor. If you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam. 
+
+
 ## Q&A
 We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions.
 
@@ -119,7 +130,7 @@ For almost all students, CPSC 340 is the right class to take:
 
 ## CPSC 340 in Term 1 vs. Term 2
 
-This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main difference is the switch from Matlab to Python.
+This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main differences are the switch from Matlab to Python, and the homework submission via GitHub.
 
 
 ## Attribution
