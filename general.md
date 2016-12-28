@@ -134,4 +134,4 @@ This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule v
 
 
 ## Attribution
-Most of the content on this page was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
+Most of the content on this site was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
