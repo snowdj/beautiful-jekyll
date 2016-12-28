@@ -130,7 +130,7 @@ For almost all students, CPSC 340 is the right class to take:
 
 ## CPSC 340 in Term 1 vs. Term 2
 
-This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main differences are the switch from Matlab to Python, and the homework submission via GitHub.
+This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main differences are the switch from Matlab to Python, and the homework submission will be via GitHub.
 
 
 ## Attribution
