@@ -13,14 +13,14 @@ title: Timetable
 </tr>
 
 <tr align="left">
-<!-- Date    --><td> Wed Sep 7<br></td>
+<!-- Date    --><td> 2017-01-04<br></td>
 <!-- Slides  --><td> <a href="L1.pdf">Syllabus</a>
 <!-- Reading  --><td><a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a> <a href="http://www.economist.com/news/briefing/21650526-artificial-intelligence-scares-peopleexcessively-so-rise-machines">Rise of the Machines</a> <a href="http://www.thetalkingmachines.com/blog/2015/1/1/hello-world">Talking Machine Episode 1</a></td>
 <!-- Homework  --><td></td>
 </tr>
 
 <tr align="left">
-<!-- Date    --><td> Fri Sep 9<br></td>
+<!-- Date    --><td> 2017-01-04<br></td>
 <!-- Slides  --><td> <a href="L2.pdf">Data Exploration</a></td>
 <!-- Reading  --><td><a href="http://datagenetics.com/blog/april32016/index.html">Gotta Catch'em all</a> <a href="https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/">Why Not to Trust Statistics</a> <BR>
 <a href="http://guides.library.duke.edu/datavis/vis_types">Visualization Types</a> <a href="https://developers.google.com/chart/interactive/docs/gallery?hl=en">Google Chart Gallery</a> <a href="http://www.mathworks.com/help/stats/examples/visualizing-multivariate-data.html">Matlab demos</a> <a href="http://selection.datavisualization.ch/">Other Tools</a></td>
