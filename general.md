@@ -132,6 +132,16 @@ For almost all students, CPSC 340 is the right class to take:
 
 This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main differences are the switch from Matlab to Python, and the homework submission will be via GitHub.
 
+## Code of Conduct
+
+Aside from all the standard UBC policies and guidelines, here are some additional items:
+
+ - Do not post offensive or disrespectful content on Piazza or GitHub.
+ - If you have a problem or complaint, let the instructor know immediately. Maybe we can fix it.
+ - Do not ask questions (in person, email, Piazza, etc) whose answers are on the course website or homework instructions. These questions take time away from instructional activities. 
+ - Do not record lectures (audio or video) without permission.
+ - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
+
 
 ## Attribution
 Most of the content on this site was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
