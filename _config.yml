@@ -23,11 +23,11 @@ description: Machine Learning and Data Mining (2016W2)
 
 # List of links in the navigation bar
 navbar-links:
-  Course Info: "general"
+  Course info: "general"
   Timetable: "timetable"
-  Calendar: "calendar"
-  Piazza: "https://piazza.com/ubc.ca/winterterm22016/cpsc340/home"
-  UBC Github: "https://github.ubc.ca/cpsc340" 
+  Links:
+   - Piazza: "https://piazza.com/ubc.ca/winterterm22016/cpsc340/home"
+   - UBC Github: "https://github.ubc.ca/cpsc340" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -40,8 +40,8 @@ avatar: "/img/cpsc340-logo-pad.png"
 author:
   name: Mike Gelbart
   email: "mgelbart@cs.ubc.ca"
-  github: mgelbart    # eg. daattali
-  twitter: MikeGelbart   # eg. daattali
+  github: mgelbart
+  twitter: MikeGelbart
 
 # Select which links to show in the footer
 footer-links-active:
