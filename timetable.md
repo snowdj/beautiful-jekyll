@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Timetable
+css: /css/wide_table.css
 ---
 
 | # | Date | Topic | Related readings and links | Homework and notes |
