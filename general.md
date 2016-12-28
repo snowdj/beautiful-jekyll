@@ -105,7 +105,7 @@ All homework submission will take place through [github.ubc.ca](https://github.u
 
 ## Midterm
 
-The midterm exam will take place on **March 1, 2017 in class**. The exam is closed book except for a one double-sided "cheat sheet".
+The midterm exam will take place on **March 1, 2017 in class**. The exam is closed book except for one double-sided "cheat sheet" on letter-size paper.
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, you must provide a justified and documented reason to the instructor. If you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam. 
 
