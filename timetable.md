@@ -14,7 +14,7 @@ title: Timetable
 
 <tr align="left">
 <!-- Date    --><td> Wed Sep 7<br></td>
-<!-- Slides  --><td> <a href="L1.pdf">Syllabus</a></a>
+<!-- Slides  --><td> <a href="L1.pdf">Syllabus</a>
 <!-- Reading  --><td><a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a> <a href="http://www.economist.com/news/briefing/21650526-artificial-intelligence-scares-peopleexcessively-so-rise-machines">Rise of the Machines</a> <a href="http://www.thetalkingmachines.com/blog/2015/1/1/hello-world">Talking Machine Episode 1</a></td>
 <!-- Homework  --><td></td>
 </tr>
