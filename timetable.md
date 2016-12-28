@@ -3,7 +3,7 @@ layout: page
 title: Timetable
 ---
 
-| # | Date   | Topic | Related readings and links | Homework and notes |
+| # | Date | Topic | Related readings and links | Homework and notes |
 |---|--------|--------|---------------------------|--------------------|
 | 1 | Jan 4 | Syllabus | [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Rise of the Machines](http://www.economist.com/news/briefing/21650526-artificial-intelligence-scares-peopleexcessively-so-rise-machines), [Talking Machine Episode 1](http://www.thetalkingmachines.com/blog/2015/1/1/hello-world) | Assignment 0 released 
 | 2 | Jan 6 | Data Exploration | [Gotta Catch'em all](http://datagenetics.com/blog/april32016/index.html), [Why Not to Trust Statistics](https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/), [Visualization Types](http://guides.library.duke.edu/datavis/vis_types), [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery?hl=en), [Other tools](http://selection.datavisualization.ch/) |
