@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Course Info
+title: CPSC 340
+subtitle: Machine Learning and Data Mining (2016W2)
 ---
 
 ## Who / what / where / when
