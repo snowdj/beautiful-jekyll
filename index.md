@@ -6,16 +6,17 @@ subtitle: Machine Learning and Data Mining (2016W2)
 
 ## Topics covered
 
-**Synopsis**: We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
+We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
 
 We will roughly cover the following topics:
- - Data exploration, cleaning, and preprocessing.
- - Supervised learning with frequencies and distances.
- - Data clustering, outlier detection, and association rules.
- - Linear prediction, regularization, and kernels.
- - Latent-factor models and collaborative filtering.
- - Neural networks and deep learning.
- - Density estimation and Markov models.
+
+- Data exploration, cleaning, and preprocessing.
+- Supervised learning with frequencies and distances.
+- Data clustering, outlier detection, and association rules.
+- Linear prediction, regularization, and kernels.
+- Latent-factor models and collaborative filtering.
+- Neural networks and deep learning.
+- Density estimation and Markov models.
 
 For more detailed information, see the course [timetable](/timetable).
 
