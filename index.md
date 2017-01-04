@@ -34,9 +34,6 @@ For more detailed information, see the course [timetable](/timetable).
 
 Tutorials are optional and start on the second week of classes (2017-01-09). 
 
-**Office hours**: See the [course calendar](https://ubc-cs.github.io/cpsc340/calendar/).
-
-
 **Instructor**: [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/)
 
 **Teaching Assistants**: 
@@ -46,6 +43,20 @@ Tutorials are optional and start on the second week of classes (2017-01-09).
 - Issam Laradji
 - Bita Nejat
 - Wenyi Wang
+
+
+**Office hours**
+
+| Person | Place | Time |
+|--------|-------|------|
+| Mike   | ICCS 225 | Tuesdays 2-3pm |
+| Issam | ICCS X239 | Tuesdays 10-11am |
+| Ricky | TBD | TBD |
+| Ritika | TBD | TBD |
+| Bita | TBD | TBD |
+| Wenyi | TBD | TBD |
+
+
 
 ## Prerequisites
 
