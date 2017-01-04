@@ -140,14 +140,13 @@ We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for
 
 ## CPSC 340 vs. CPSC 540
 
-Our department also offers a graduate ML course, CPSC 540:
+Our department also offers a graduate ML course, CPSC 540. Compared with this course, CPSC 540 has...
 
  - More advanced material.
  - More focus on theory/implementation, less focus on applications.
  - More prerequisites and higher workload.
- - Offered in Term 2 (now)
 
-For almost all students, CPSC 340 is the right class to take:
+For almost all students, CPSC 340 is the right class to take.
 
  - CPSC 340 focuses on the most widely-used methods in practice.
  - CPSC 540 is intended as a continuation of CPSC 340.
@@ -161,11 +160,15 @@ This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule v
 
 Aside from all the standard UBC policies and guidelines, here are some additional items:
 
- - Do not post offensive or disrespectful content on Piazza or GitHub.
- - If you have a problem or complaint, let the instructor know immediately. Maybe we can fix it.
- - Do not ask questions (in person, email, Piazza, etc) whose answers are on the course website or homework instructions. These questions take time away from instructional activities. 
- - Do not record lectures (audio or video) without permission.
- - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
+- Do not post offensive or disrespectful content on Piazza or GitHub.
+- If you have a problem or complaint, let me know immediately. Maybe we can fix it! 
+- Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
+- Do not record lectures (audio or video) without permission.
+- If you commit to working with a partner, do your part of the work.
+- Think about how/when to ask for help (in person, email, Piazza, etc.)
+   - Don’t ask for help after being stuck for only 10 seconds. Make a reasonable effort to solve your problem. 
+   - _Read all the instructions before asking for help._ Don’t ask questions whose answers are on the course website or homework instructions or on the first page of a Google search. These questions take time away from other instructional activities.
+   - On the other hand, don’t ask for help only after 10 hours of painful debugging. Don’t be shy!
 
 
 ## Attribution
