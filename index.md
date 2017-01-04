@@ -30,9 +30,9 @@ For more detailed information, see the course [timetable](/timetable).
 |---------|-------|------|
 | T2A     | DMP 101 | M 4-5 pm |
 | T2B     | DMP 101 | M 3-4 pm |
-| T2C     | DMP 201 | T 2-3pm |
+| T2C     | DMP 201 | T 2-3pm (but cancelled on Feb 14) |
 
-Tutorials are optional and start on the second week of classes (2017-01-09). 
+Tutorials are optional and start on the second week of classes (2017-01-09).  
 
 **Instructor**: [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/)
 
