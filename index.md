@@ -18,7 +18,7 @@ We will roughly cover the following topics:
 - Neural networks and deep learning.
 - Density estimation and Markov models.
 
-For more detailed information, see the course [timetable](/timetable).
+For more detailed information, see the course [timetable](https://ubc-cs.github.io/cpsc340/timetable/).
 
 ## Who / what / where / when
 
