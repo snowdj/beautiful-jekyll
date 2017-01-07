@@ -108,6 +108,7 @@ We recommend the Anaconda Python distribution because it comes bundled with a bu
 Here are some resources that might help you learn Python. Note that the course staff has not tried out these materials and so we aren't necessarily endorsing them.
 
 - <https://www.codecademy.com/learn/python>
+- <http://greenteapress.com/wp/think-python-2e/>
 - <https://www.coursera.org/learn/python>
 - <https://www.datacamp.com>
 - <https://www.udacity.com/course/programming-foundations-with-python--ud036>
