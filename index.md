@@ -114,6 +114,7 @@ Here are some resources that might help you learn Python. Note that the course s
 - <https://www.coursera.org/learn/python-programming-introduction>
 - <https://www.coursera.org/learn/python-data-analysis>
 - <https://www.coursera.org/learn/principles-of-computing-1>
+- <http://www.cs.ubc.ca/~pcarter/cs189/cs189_ch7.html>
 
 ## Grading
 The grading scheme for the course is as follows:
