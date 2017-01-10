@@ -52,7 +52,7 @@ Tutorials are optional and start on the second week of classes (2017-01-09).
 | Mike   | ICCS 225 | Tuesdays 2-3pm |
 | Issam | ICCS X239 | Tuesdays 10-11am |
 | Ricky | DLC (ICCS X150) Table 2 | Fridays 2:30-3:30pm |
-| Ritika | TBD | TBD |
+| Ritika | TBD | Mondays 3:30-4:30pm |
 | Bita | ICCS X151 | Wednesdays 10-11am |
 | Wenyi | DLC (ICCS X150) Table 4 | Thursdays 2-3pm |
 
