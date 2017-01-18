@@ -181,6 +181,7 @@ We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for
   - your operating system
   - the command you used to execute the program 
   - the entire error message
+- (less important, but nice) when using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
 
 ## Attribution
 Most of the content on this site was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
