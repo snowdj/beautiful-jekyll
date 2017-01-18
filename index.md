@@ -137,9 +137,6 @@ The midterm exam will take place on **March 1, 2017 in class**. The exam is clos
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, you must provide a justified and documented reason to the instructor. If you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam. 
 
 
-## Q&A
-We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions.
-
 ## CPSC 340 vs. CPSC 540
 
 Our department also offers a graduate ML course, CPSC 540. Compared with this course, CPSC 540 has...
@@ -171,7 +168,19 @@ Aside from all the standard UBC policies and guidelines, here are some additiona
    - Don’t ask for help after being stuck for only 10 seconds. Make a reasonable effort to solve your problem. 
    - _Read all the instructions before asking for help._ Don’t ask questions whose answers are on the course website or homework instructions or on the first page of a Google search. These questions take time away from other instructional activities.
    - On the other hand, don’t ask for help only after 10 hours of painful debugging. Don’t be shy!
+   - Follow the additional guidelines below on how to ask questions on Piazza.
 
+## Q&A
+We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions. Please consider the following guidelines when asking a question:
+
+- avoid including answers or partial answers in your question/post.
+- do a quick search to make sure your question hasn't already been answered. 
+  - you can filter by tags like "hw1" or do a keyword search
+- if you have a code problem, include as much relevant information as possible like:
+  - your version of Python and relevant libraries
+  - your operating system
+  - the command you used to execute the program 
+  - the entire error message
 
 ## Attribution
 Most of the content on this site was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
