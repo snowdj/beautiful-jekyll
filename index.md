@@ -47,16 +47,7 @@ Tutorials are optional and start on the second week of classes (2017-01-09).
 
 **Office hours**
 
-| Person | Place | Time |
-|--------|-------|------|
-| Ritika | ICCS X337 | Mondays 3:30-4:30pm |
-| Issam | ICCS X237 | Tuesdays 3-4pm |
-| Bita | ICCS X151 | Wednesdays 10-11am |
-| Mike   | ICCS 225 | Wednesdays 2-3pm |
-| Wenyi | DLC (ICCS X150) Table 4 | Thursdays 2-3pm |
-| Ricky | DLC (ICCS X150) Table 2 | Fridays 2:30-3:30pm |
-
-
+See the [Office hours calendar](https://ubc-cs.github.io/cpsc340/calendar/).
 
 ## Prerequisites
 
