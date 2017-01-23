@@ -47,7 +47,7 @@ Tutorials are optional and start on the second week of classes (2017-01-09).
 
 **Office hours**
 
-See the [Office hours calendar](https://ubc-cs.github.io/cpsc340/calendar/).
+See the [office hours calendar](https://ubc-cs.github.io/cpsc340/calendar/).
 
 ## Prerequisites
 
