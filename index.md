@@ -100,6 +100,7 @@ Here are some resources that might help you learn Python. Note that the course s
 
 - <https://www.codecademy.com/learn/python>
 - <http://greenteapress.com/wp/think-python-2e/>
+- <https://swcarpentry.github.io/python-novice-inflammation/>
 - <https://www.coursera.org/learn/python>
 - <https://www.datacamp.com>
 - <https://www.udacity.com/course/programming-foundations-with-python--ud036>
