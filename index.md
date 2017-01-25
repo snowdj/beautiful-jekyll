@@ -173,9 +173,9 @@ We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for
   - your operating system
   - the command you used to execute the program 
   - the entire error message
-- if you want the course staff to review your code, please use the following protocol:
-  - ask in github.ubc.ca, instead of Piazza, by opening an issue in your personal homework repository
-  - make sure to tag `@cpsc340/staff` in your post; otherwise, we will not be notified
+- if you want the course staff to review/help debug your code, please use the following protocol:
+  - ask in github.ubc.ca, instead of Piazza, by opening an issue in your personal homework repository.
+  - make sure to tag `@cpsc340/staff` in your issue's text; otherwise, we will not be notified.
   - include a link to the file you want us to review, and a brief explanation. If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). 
 - (less important, but nice) when using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
 
