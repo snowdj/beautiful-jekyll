@@ -155,7 +155,7 @@ Aside from all the standard UBC policies and guidelines, here are some additiona
 - If you have a problem or complaint, let me know immediately. Maybe we can fix it! 
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
 - Do not record lectures (audio or video) without permission.
-- If you commit to working with a partner, do your part of the work.
+- If you commit to working with a partner, do your fair share of the work.
 - Think about how/when to ask for help (in person, email, Piazza, etc.)
    - Don’t ask for help after being stuck for only 10 seconds. Make a reasonable effort to solve your problem. 
    - _Read all the instructions before asking for help._ Don’t ask questions whose answers are on the course website or homework instructions or on the first page of a Google search. These questions take time away from other instructional activities.
@@ -173,6 +173,10 @@ We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for
   - your operating system
   - the command you used to execute the program 
   - the entire error message
+- if you want the course staff to review your code, please use the following protocol:
+  - ask in github.ubc.ca, instead of Piazza, by opening an issue in your personal homework repository
+  - make sure to tag `@cpsc340/staff` in your post; otherwise, we will not be notified
+  - include a link to the file you want us to review, and a brief explanation. If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). 
 - (less important, but nice) when using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
 
 ## Attribution
