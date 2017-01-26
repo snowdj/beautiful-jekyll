@@ -14,30 +14,31 @@ css: /css/wide_table.css
 | 6 | Jan 16 | [Non-Parametric Models](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L6.pdf) | [K-nearest neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), [Decision Theory for Darts](http://www.datagenetics.com/blog/january12012/index.html), AI: AMA 18.8, ESL 13.3, ML:APP 1.4 | Tutorial: Python plotting, naive Bayes practice |
 | 7 | Jan 18 | [Ensemble Methods](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L7.pdf) | [Ensemble Methods](https://en.wikipedia.org/wiki/Ensemble_learning), [Random Forests](https://en.wikipedia.org/wiki/Random_forest), [Empirical Study](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf), [Kinect](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf), AI: AMA 18.10, ESL: 7.11, 8.2, 15, 16.3, ML: APP 6.2.1, 16.2.5, 16.6 |
 | 8 | Jan 20 | [Clustering](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L8.pdf) | [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis), [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) ([demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)), [K-Means++](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf) ([demo](https://www.youtube.com/watch?v=BIQDlmZDuf8)), IDM 8.1-8.2, ESL: 14.3 | |
-| 9 | Jan 23 | [Density-based Clustering](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L9.pdf) | [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L9bonus.pdf), [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) ([video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/dbscan.mov), [demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)), [Norms](https://en.wikipedia.org/wiki/Norm_(mathematics)), IDM 8.4 | Assignment 1 due (Sunday night) |
+| 9 | Jan 23 | [Density-based Clustering](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L9.pdf) | [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L9bonus.pdf), [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) ([video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/dbscan.mov), [demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)), [Norms](https://en.wikipedia.org/wiki/Norm_(mathematics)), IDM 8.4 | Assignment 1 due (Sunday night), Tutorial: decision trees and random forests |
 | 10 | Jan 25 | [Hierarchical Clustering](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L10.pdf) | [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L10bonus.pdf), [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering), [Phylogenetic Trees](https://en.wikipedia.org/wiki/Phylogenetic_tree), IDM 8.3, ESL 14.3.12, ML:APP 25.5 |  
 | 11 | Jan 27 | Outlier Detection | [Survey and Empirical Study](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0152173), IDM 10.1-5 |
+| 12 | Jan 30 | Association Rules | [Association Rule Learning](https://en.wikipedia.org/wiki/Association_rule_learning), [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm), [Amazon Product Recommendation](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf),
+IDM 6.1-6.3, ESL 14.2   | Tutorial: TBD
+| 13 | Feb 1 | Linear Regression | [Linear Regression](http://datagenetics.com/blog/august12013/index.html) ([demo](http://setosa.io/ev/ordinary-least-squares-regression/), [2D data](linear.mp4), [2D video](linear2.mp4)) [Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Partial Derivatives](https://en.wikipedia.org/wiki/Partial_derivative), [Gradient](https://en.wikipedia.org/wiki/Gradient), [Notes on Linear Algebra](https://www.cs.ubc.ca/~schmidtm/Documents/2009_Notes_LinearAlgebra.pdf), ESL 3.1-2, ML:APP 7.1-3, AI:AMA 18.6 |
+| 14 | Feb 3 | Non-Linear Regression | [Fluid Simulation](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf), [Linear/Quadratic Gradients](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/linearQuadraticGradients.pdf), ESL 5.1, 6.3, and 6.7 |
 
 <!--
-| 12 | Jan 30 | [Association Rules](L12.pdf) [Association Rule Learning](https://en.wikipedia.org/wiki/Association_rule_learning) [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm) [Amazon Product Recommendation](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)  
-IDM 6.1-6.3, ESL 14.2 Wed Oct 5  
-[Linear Regression](L13.pdf) [Linear Regression](http://datagenetics.com/blog/august12013/index.html) ([demo](http://setosa.io/ev/ordinary-least-squares-regression/), [2D data](linear.mp4), [2D video](linear2.mp4)) [Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)  
-[Partial Derivatives](https://en.wikipedia.org/wiki/Partial_derivative) [Gradient](https://en.wikipedia.org/wiki/Gradient)  
-ESL 3.1-2, ML:APP 7.1-3, AI:AMA 18.6 [Tutorial 4](T4.pdf)  
-[Notes on Linear Algebra](../../Documents/2009_Notes_LinearAlgebra.pdf) Fri Oct 7  
-[Non-Linear Regression](L14.pdf) [Fluid Simulation](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf)  
-ESL 5.1, 6.3, and 6.7 Assignment 2 due  
-[Linear/Quadratic Gradients](linearQuadraticGradients.pdf) Wed Oct 12  
+Wed Oct 12  
 [Regularization](L15.pdf) [RBF video](rbf.mp4) [RBF and Regularization video](rbf2.mp4)  
 ESL 3.4, ML:APP 7.5, AI:AMA 18.4 [Assignment 3](a3.pdf) [a3.zip](a3.zip)  
-[Tutorial 5](T5.pdf) Fri Oct 14  
+[Tutorial 5](T5.pdf)
+
+Fri Oct 14  
 [Gradient Descent](L16.pdf) [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)  
 ML:APP 7.4 Mon Oct 17  
 [Logistic Regression](L17.pdf) [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf)  
-ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 Wed Oct 19  
+ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9
+
+Wed Oct 19  
 [Support Vector Machines](L18.pdf) [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)  
 ESL 4.5 and 12.1-2, ML:APP 14.5 Assignment 3 due  
 [Tutorial 6](T6.pdf) Fri Oct 21  
+
 [Kernel Methods](L19.pdf) ESL 12.3, ML:APP 14.1-4 Mon Oct 24  
 [Stochastic Gradient](L20.pdf) [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
 ML:APP 8.5 Wed Oct 26  
