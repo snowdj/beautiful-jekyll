@@ -19,11 +19,11 @@ css: /css/wide_table.css
 | 11 | Jan 27 | [Outlier Detection](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L11.pdf) | [Survey and Empirical Study](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0152173), IDM 10.1-5 |
 | 12 | Jan 30 | [Association Rules](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L12.pdf) | [Association Rule Learning](https://en.wikipedia.org/wiki/Association_rule_learning), [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm), [Amazon Product Recommendation](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf), IDM 6.1-6.3, ESL 14.2   | Tutorial: hw2 python code, vector quantization
 | 13 | Feb 1 | [Linear Regression](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L13.pdf) | [Linear Regression](http://datagenetics.com/blog/august12013/index.html) ([demo](http://setosa.io/ev/ordinary-least-squares-regression/), [2D data](linear.mp4), [2D video](linear2.mp4)) [Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Partial Derivatives](https://en.wikipedia.org/wiki/Partial_derivative), [Gradient](https://en.wikipedia.org/wiki/Gradient), [Notes on Linear Algebra](https://www.cs.ubc.ca/~schmidtm/Documents/2009_Notes_LinearAlgebra.pdf), ESL 3.1-2, ML:APP 7.1-3, AI:AMA 18.6 |
-
+| 14 | Feb 3 | [Non-Linear Regression](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L14.pdf) | [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L14bonus.pdf), [Fluid simulation paper](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf), [Fluid simulation video](https://www.youtube.com/watch?v=kGB7Wd9CudA), [Linear/Quadratic Gradients](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/linearQuadraticGradients.pdf), ESL 5.1, 6.3, and 6.7 |
 
 <!--
 
-| 14 | Feb 3 | [Non-Linear Regression](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L14.pdf) | [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L14bonus.pdf), [Fluid simulation paper](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf), [Fluid simulation video](https://www.youtube.com/watch?v=kGB7Wd9CudA), [Linear/Quadratic Gradients](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/linearQuadraticGradients.pdf), ESL 5.1, 6.3, and 6.7 |
+
 | 15 | Feb 6 | Regularization | [RBF video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/rbf.mp4) [RBF and Regularization video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/rbf2.mp4), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | hw2 due (Sunday night), Tutorial: hw3 practice problems |
 
 Fri Oct 14  
