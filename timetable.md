@@ -21,20 +21,13 @@ css: /css/wide_table.css
 | 13 | Feb 1 | [Linear Regression](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L13.pdf) | [Linear Regression](http://datagenetics.com/blog/august12013/index.html) ([demo](http://setosa.io/ev/ordinary-least-squares-regression/), [2D data](linear.mp4), [2D video](linear2.mp4)) [Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Partial Derivatives](https://en.wikipedia.org/wiki/Partial_derivative), [Gradient](https://en.wikipedia.org/wiki/Gradient), [Notes on Linear Algebra](https://www.cs.ubc.ca/~schmidtm/Documents/2009_Notes_LinearAlgebra.pdf), ESL 3.1-2, ML:APP 7.1-3, AI:AMA 18.6 |
 | 14 | Feb 3 | [Non-Linear Regression](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L14.pdf) | [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L14bonus.pdf), [Fluid simulation paper](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf), [Fluid simulation video](https://www.youtube.com/watch?v=kGB7Wd9CudA), [Linear/Quadratic Gradients](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/linearQuadraticGradients.pdf), ESL 5.1, 6.3, and 6.7 |
 | 15 | Feb 6 | [Regularization](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L15.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L15bonus.pdf), [demo code](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L15demo.ipynb), [RBF video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/rbf.mp4), [RBF and Regularization video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/rbf2.mp4), [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | hw2 due (Sunday night), Tutorial: hw3 practice problems
+| 16 | Feb 8 | [Gradient Descent](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L16.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L16bonus.pdf), [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent), ML:APP 7.4 |
+| 17 | Feb 10 | Logistic Regression | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 |
+| 18 | Feb 13 | Support Vector Machines | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.5 and 12.1-2, ML:APP 14.5 |
 
 
 <!--
 
-Fri Oct 14  
-[Gradient Descent](L16.pdf) [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)  
-ML:APP 7.4 Mon Oct 17  
-[Logistic Regression](L17.pdf) [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf)  
-ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9
-
-Wed Oct 19  
-[Support Vector Machines](L18.pdf) [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)  
-ESL 4.5 and 12.1-2, ML:APP 14.5 Assignment 3 due  
-[Tutorial 6](T6.pdf) Fri Oct 21  
 
 [Kernel Methods](L19.pdf) ESL 12.3, ML:APP 14.1-4 Mon Oct 24  
 [Stochastic Gradient](L20.pdf) [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
