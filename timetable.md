@@ -23,13 +23,13 @@ css: /css/wide_table.css
 | 15 | Feb 6 | [Regularization](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L15.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L15bonus.pdf), [demo code](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L15demo.ipynb), [RBF video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/rbf.mp4), [RBF and Regularization video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/rbf2.mp4), [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | hw2 due (Sunday night), Tutorial: hw3 practice problems
 | 16 | Feb 8 | [Gradient Descent](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L16.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L16bonus.pdf), [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent), ML:APP 7.4 |
 | 17 | Feb 10 | Logistic Regression | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 |
-|  | Feb 13 | FAMILY DAY | n/a | Tutorials cancelled this week
+|  | Feb 13 | FAMILY DAY |  | Tutorials cancelled this week
 | 18 | Feb 15 | Support Vector Machines | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.5 and 12.1-2, ML:APP 14.5 |
 | 19 | Feb 17 | Kernel Methods | ESL 12.3, ML:APP 14.1-4 | hw3 due Sunday night
 |   |  | MIDTERM BREAK |  |
 | 20 | Feb 27 | Stochastic Gradient | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
-|   | Mar 1 | MIDTERM | Practice exams available on github.ubc.ca |
-| 21 | Mar 3 | Feature Selection | ESL 3.3 Fri Oct 28 |
+|   | Mar 1 | MIDTERM EXAM | Practice exams available on github.ubc.ca |
+| 21 | Mar 3 | Feature Selection | ESL 3.3 |
 
 <!--
 
