@@ -24,8 +24,8 @@ css: /css/wide_table.css
 | 16 | Feb 8 | [Gradient Descent](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L16.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L16bonus.pdf), [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L16demo.ipynb), [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent), ML:APP 7.4 |
 | 17 | Feb 10 | [Logistic Regression](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L17.pdf) | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 |
 |  | Feb 13 | FAMILY DAY |  | Tutorials cancelled this week
-| 18 | Feb 15 | Support Vector Machines | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.5 and 12.1-2, ML:APP 14.5 |
-| 19 | Feb 17 | Kernel Methods | ESL 12.3, ML:APP 14.1-4 | hw3 due Sunday night
+| 18 | Feb 15 | [Support Vector Machines](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L18.pdf) | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.5 and 12.1-2, ML:APP 14.5 |
+| 19 | Feb 17 | Kernel Methods / Review | ESL 12.3, ML:APP 14.1-4 | hw3 due Sunday night
 |   |  | MIDTERM BREAK |  |
 | 20 | Feb 27 | Stochastic Gradient | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
 |   | Mar 1 | MIDTERM EXAM | Practice exams available on github.ubc.ca |
