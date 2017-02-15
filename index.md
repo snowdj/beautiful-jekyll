@@ -152,6 +152,7 @@ This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule v
 Aside from all the standard UBC policies and guidelines, here are some additional items:
 
 - Do not post offensive or disrespectful content on Piazza or GitHub.
+- If you plan to engage in non-CPSC-340-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates. 
 - If you have a problem or complaint, let me know immediately. Maybe we can fix it! 
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
 - Do not record lectures (audio or video) without permission.
