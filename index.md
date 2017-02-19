@@ -151,7 +151,8 @@ This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule v
 
 Aside from all the standard UBC policies and guidelines, here are some additional items:
 
-- Do not post offensive or disrespectful content on Piazza or GitHub.
+- Do not post offensive or disrespectful content on 
+or GitHub.
 - If you plan to engage in non-CPSC-340-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates. 
 - If you have a problem or complaint, let me know immediately. Maybe we can fix it! 
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
@@ -178,6 +179,7 @@ We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for
   - ask in github.ubc.ca, instead of Piazza, by opening an issue in your personal homework repository.
   - make sure to tag `@cpsc340/staff` in your issue's text; otherwise, we will not be notified.
   - include a link to the file you want us to review, and a brief explanation. If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). 
+- if you post a question and then figure out the answer yourself, please do not delete the question. It's still useful. Ideally, you'd post the answer to your own question for others to benefit.
 - (less important, but nice) when using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
 
 ## Attribution
