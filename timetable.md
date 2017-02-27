@@ -27,7 +27,7 @@ css: /css/wide_table.css
 | 18 | Feb 15 | [Support Vector Machines](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L18.pdf) | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.5 and 12.1-2, ML:APP 14.5 |
 | 19 | Feb 17 | [Kernel Methods](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L19.pdf) | [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L19demo.ipynb), ESL 12.3, ML:APP 14.1-4 | hw3 due Sunday night
 |   |  | MIDTERM BREAK |  |
-| 20 | Feb 27 | Stochastic Gradient | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
+| 20 | Feb 27 | [Stochastic Gradient](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L20.pdf) | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
 |   | Mar 1 | MIDTERM EXAM | Practice exams available on github.ubc.ca |
 | 21 | Mar 3 | Feature Selection | ESL 3.3 |
 
