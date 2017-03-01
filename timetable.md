@@ -31,8 +31,7 @@ css: /css/wide_table.css
 |   | Mar 1 | MIDTERM EXAM | Practice exams available on github.ubc.ca |
 |  | Mar 3 | Midterm solutions |  | hw4 released
 | 21 | Mar 6 | Feature Selection | ESL 3.3 | Tutorial: TBD
-| 22 | Mar 8 | L1-Regularization | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation),  
-ESL 3.4, ML:APP 13.3-4 |
+| 22 | Mar 8 | L1-Regularization | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), ESL 3.4, ML:APP 13.3-4 |
 | 23 | Mar 10 | Multi-Class Regression | ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
 | 24 | Mar 13 | Principal Component Analysis | [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | Tutorial: TBD
 | 25 | Mar 15 | More PCA | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | Assignment 4 due (11:59pm)
