@@ -29,20 +29,19 @@ css: /css/wide_table.css
 |   |  | MIDTERM BREAK |  |
 | 20 | Feb 27 | [Stochastic Gradient](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L20.pdf) | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
 |   | Mar 1 | MIDTERM EXAM | Practice exams available on github.ubc.ca |
-| 21 | Mar 3 | Feature Selection | ESL 3.3 |
+|  | Mar 3 | Midterm solutions |  | hw4 released
+| 21 | Mar 6 | Feature Selection | ESL 3.3 | Tutorial: TBD
+| 22 | Mar 8 | L1-Regularization | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation),  
+ESL 3.4, ML:APP 13.3-4 |
+| 23 | Mar 10 | Multi-Class Regression | ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
+| 24 | Mar 13 | Principal Component Analysis | [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | Tutorial: TBD
+| 25 | Mar 15 | More PCA | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | Assignment 4 due (11:59pm)
+| 26 | Mar 17 | Sparse Matrix Factorization | [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), ESL 14.6, ML: APP 13.8 |
+| 27 | Recommender Systems | [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system) [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) |
+
 
 <!--
 
-[L1-Regularization](L22.pdf) [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)  
-ESL 3.4, ML:APP 13.3-4 [Assignment 4](a4.pdf) [a4.zip](a4.zip) Wed Nov 2  
-[Multi-Class Regression](L23.pdf) ML:APP 8.3.7 and 9.3-5, ESL 4.4 [Tutorial 8](T8.pdf) Fri Nov 4  
-[Principal Component Analysis](L24.pdf) [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)  
-ESL 14.5, IDM B.1, ML:APP 12.2 Mon Nov 7  
-[More PCA](L25.pdf) [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition) [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) Wed Nov 9  
-[Sparse Matrix Factorization](L26.pdf) [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)  
-ESL 14.6, ML: APP 13.8 [Tutorial 9](T9.pdf) Mon Nov 14  
-[Recommender Systems](L27.pdf) [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system) [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) [Assignment 5](a5.pdf) [a5.zip](a5.zip)  
-Assignment 4 due Wed Nov 16  
 [Multi-Dimensional Scaling](L28.pdf) [Nonlinear Dimensionality Reduction](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction)  
 ESL 14.8-9, IDM B.2 [Tutorial 10](T10.pdf) Fri Nov 18  
 [Neural Networks](L29.pdf) [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18) [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/)  
