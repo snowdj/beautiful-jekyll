@@ -34,7 +34,7 @@ css: /css/wide_table.css
 | 22 | Mar 8 | [L1-Regularization & Maximum Likelihood](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L22.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L22bonus.pdf), [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), ESL 3.4, ML:APP 13.3-4 |
 | 23 | Mar 10 | [Multi-Class Classification](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L23.pdf) | ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
 | 24 | Mar 13 | [Principal Component(s) Analysis](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L24.pdf) | [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | Tutorial: maximum likelihood
-| 25 | Mar 15 | More PCA | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | 
+| 25 | Mar 15 | [More PCA](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L25.pdf) | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | 
 | 26 | Mar 17 | Sparse Matrix Factorization | [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), ESL 14.6, ML: APP 13.8 | hw4 due Sunday night
 | 27 | Mar 20 | Recommender Systems | [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system), [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) | Tutorial: TBD
 
