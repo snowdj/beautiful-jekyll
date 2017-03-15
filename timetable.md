@@ -38,9 +38,9 @@ css: /css/wide_table.css
 | 26 | Mar 17 | [Sparse Matrix Factorization](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L26.pdf) | [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), ESL 14.6, ML: APP 13.8 | hw4 due Sunday night
 | 27 | Mar 20 | Recommender Systems | [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system), [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) | Tutorial: TBD
 | 28 | Mar 22 | Multi-Dimensional Scaling | [Nonlinear Dimensionality Reduction](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction), ESL 14.8-9, IDM B.2 |
-| 29 | Mar 24 | Neural Networks | [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18) [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  |
+| 29 | Mar 24 | Neural Networks | [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  |
 | 30 | Mar 27 | Deep Learning | ML:APP 28.3, ESL 11.5 |
-| 31 | Mar 29 | Convolutional Neural Networks | [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
+| 31 | Mar 29 | Convolutional Neural Networks | [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
 
 <!--
 
