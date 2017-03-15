@@ -43,8 +43,11 @@ css: /css/wide_table.css
 | 31 | Mar 29 | Convolutional Neural Networks | [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
 
 <!--
+
 | 32 | Mar 31 | More CNNs | |
 | 33 | Apr 3 | Ranking |  [PageRank Slides](http://www.stat.cmu.edu/~ryantibs/datamining/lectures/03-pr.pdf), [PageRank math/code](https://uu.diva-portal.org/smash/get/diva2:536076/FULLTEXT01.pdf), ESL 14.10, ML:APP 9.7, AI: AMA 22.3
 | 34 | Apr 5 | Semi-Supervised Learning | [Semi-Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning) [Label Propagation at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
-| 35 | Apr 
+| 35 | Apr
 [Course Review/Preview](L35.pdf) Assignment 6 due
+
+-->
