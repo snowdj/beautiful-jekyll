@@ -34,26 +34,20 @@ css: /css/wide_table.css
 | 22 | Mar 8 | [L1-Regularization & Maximum Likelihood](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L22.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L22bonus.pdf), [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), ESL 3.4, ML:APP 13.3-4 |
 | 23 | Mar 10 | [Multi-Class Classification](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L23.pdf) | ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
 | 24 | Mar 13 | [Principal Component(s) Analysis](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L24.pdf) | [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | Tutorial: maximum likelihood
-| 25 | Mar 15 | More PCA | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) | 
-| 26 | Mar 17 | Sparse Matrix Factorization | [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), ESL 14.6, ML: APP 13.8 | hw4 due Sunday night
+| 25 | Mar 15 | [More PCA](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L25.pdf) | [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) |
+| 26 | Mar 17 | [Sparse Matrix Factorization](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L26.pdf) | [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), ESL 14.6, ML: APP 13.8 | hw4 due Sunday night
 | 27 | Mar 20 | Recommender Systems | [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system), [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) | Tutorial: TBD
-
+| 28 | Mar 22 | Multi-Dimensional Scaling | [Nonlinear Dimensionality Reduction](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction), ESL 14.8-9, IDM B.2 |
+| 29 | Mar 24 | Neural Networks | [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  |
+| 30 | Mar 27 | Deep Learning | ML:APP 28.3, ESL 11.5 |
+| 31 | Mar 29 | Convolutional Neural Networks | [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
 
 <!--
 
-[Multi-Dimensional Scaling](L28.pdf) [Nonlinear Dimensionality Reduction](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction)  
-ESL 14.8-9, IDM B.2 [Tutorial 10](T10.pdf) Fri Nov 18  
-[Neural Networks](L29.pdf) [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18) [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/)  
-ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7 [Assignment 6](a6.pdf) [a6.zip](a6.zip) Mon Nov 21  
-[Deep Learning](L30.pdf) [Web book](http://neuralnetworksanddeeplearning.com)  
-ML:APP 28.3, ESL 11.5 Wed Nov 23  
-[Convolutional Neural Networks](L31.pdf) [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)  
-ML:APP 28.4, ESL 11.7 [Tutorial 11](T11.pdf) Fri Nov 25  
-[More CNNs](L32.pdf) Assignment 5 due Mon Nov 28  
-[Ranking](L33.pdf) [PageRank Slides](http://www.stat.cmu.edu/~ryantibs/datamining/lectures/03-pr.pdf
-), [PageRank math/code](https://uu.diva-portal.org/smash/get/diva2:536076/FULLTEXT01.pdf)  
-ESL 14.10, ML:APP 9.7, AI: AMA 22.3 Wed Nov 30  
-[Semi-Supervised Learning](L34.pdf) [Semi-Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning) [Label Propagation at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html) [Tutorial 12](T12.pdf) Fri Dec 2  
+| 32 | Mar 31 | More CNNs | |
+| 33 | Apr 3 | Ranking |  [PageRank Slides](http://www.stat.cmu.edu/~ryantibs/datamining/lectures/03-pr.pdf), [PageRank math/code](https://uu.diva-portal.org/smash/get/diva2:536076/FULLTEXT01.pdf), ESL 14.10, ML:APP 9.7, AI: AMA 22.3
+| 34 | Apr 5 | Semi-Supervised Learning | [Semi-Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning) [Label Propagation at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
+| 35 | Apr
 [Course Review/Preview](L35.pdf) Assignment 6 due
 
 -->
