@@ -41,10 +41,18 @@ css: /css/wide_table.css
 | 29 | Mar 24 | Neural Networks | [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  |
 | 30 | Mar 27 | Deep Learning | ML:APP 28.3, ESL 11.5 |
 | 31 | Mar 29 | Convolutional Neural Networks | [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
+| 32 | Mar 31 | More CNNs | |
+| 33 | Apr 3  | Keras+TensorFlow demo; Conclusion | |
+
+Note: we ended up 2 lectures behind last term's offering of CPSC 340. One is because
+we spent a class going through the midterm solutions, and the other is because the term
+is simply shorter by one day. The two topics we're skipping are Ranking and Semi-Supervised Learning.
+If you want to read up on these topics, 
+see the [last offering's timetable](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/) and scroll down
+to those two lectures for slides and readings. 
 
 <!--
 
-| 32 | Mar 31 | More CNNs | |
 | 33 | Apr 3 | Ranking |  [PageRank Slides](http://www.stat.cmu.edu/~ryantibs/datamining/lectures/03-pr.pdf), [PageRank math/code](https://uu.diva-portal.org/smash/get/diva2:536076/FULLTEXT01.pdf), ESL 14.10, ML:APP 9.7, AI: AMA 22.3
 | 34 | Apr 5 | Semi-Supervised Learning | [Semi-Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning) [Label Propagation at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html)
 | 35 | Apr
