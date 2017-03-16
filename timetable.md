@@ -29,7 +29,7 @@ css: /css/wide_table.css
 |   |  | MIDTERM BREAK |  |
 | 20 | Feb 27 | [Stochastic Gradient](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L20.pdf) | [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
 |   | Mar 1 | MIDTERM EXAM | Practice exams available on github.ubc.ca |
-|  | Mar 3 | Midterm solutions |  | hw4 released
+|  | Mar 3 | Midterm solutions |  | [hw4](https://github.com/UBC-CS/cpsc340/raw/master/assignments/a4.zip)  released
 | 21 | Mar 6 | [Feature Selection](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L21.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L21bonus.pdf), ESL 3.3 | Tutorial: hw4 code
 | 22 | Mar 8 | [L1-Regularization & Maximum Likelihood](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L22.pdf) | [Bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L22bonus.pdf), [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), ESL 3.4, ML:APP 13.3-4 |
 | 23 | Mar 10 | [Multi-Class Classification](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L23.pdf) | ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
