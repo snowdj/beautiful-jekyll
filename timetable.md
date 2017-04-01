@@ -41,13 +41,13 @@ css: /css/wide_table.css
 | 29 | Mar 24 | [Neural Networks](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L29.pdf) | [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L29demo.ipynb), [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  |
 | 30 | Mar 27 | [Deep Learning](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L30.pdf) | [in-class demo](https://github.com/UBC-CS/cpsc340/blob/master/lectures/L30demo.ipynb), [bonus slides](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L30bonus.pdf) ML:APP 28.3, ESL 11.5 | Tutorial: time will be used as extra office hours
 | 31 | Mar 29 | [Convolutional Neural Networks](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L31.pdf) | [bonus slides (more convolutions)](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L31bonus.pdf), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
-| 32 | Mar 31 | [More CNNs](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L32.pdf) | [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) |
-| 33 | Apr 3  | Useful software | |
-| 34 | Apr 5  | Conclusion | We'll do the course/TA evaluations during this lecture as well. |
+| 32 | Mar 31 | [More CNNs](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L32.pdf) | [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) | Assignment 5 due (11:59pm)
+| 33 | Apr 3  | [Deep learning software](https://github.com/UBC-CS/cpsc340/raw/master/lectures/L33.ipynb)  | If you want to follow along, sign up for an [AWS account](https://aws.amazon.com/) before class. You can try for an [Amazon Educate student account](https://aws.amazon.com/education/awseducate/apply/) but we've still working out some issues with this. | Tutorial: deep learning / hw6
+| 34 | Apr 5  | Conclusion | We'll do the course/TA evaluations during this lecture as well. | Assignment 6 due (11:59pm on Friday April 7)
 
-Note: we ended up one lecture behind last term's offering of CPSC 340. One is because
-we spent a class going through the midterm solutions, and the other is because I've added a new lecture (33).
-The two topics we're skipping are Ranking and Semi-Supervised Learning.
+Note: we ended up diverging by two lectures from last term's offering of CPSC 340. One is because
+we spent a class going through the midterm solutions, and the other is because I've added a new lecture (33) on deep learning software.
+The two topics we didn't cover are Ranking and Semi-Supervised Learning.
 If you want to read up on these topics,
 see the [last offering's timetable](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/) and scroll down
 to those two lectures for slides and readings.
