@@ -4,7 +4,7 @@ title: CPSC 340
 subtitle: Machine Learning and Data Mining (2016W2)
 ---
 
-NOTE: this is the web page for the Spring 2017 offering (Jan-Apr 2017) of CPSC 340. For the summer offering, the page is http://github.ubc.ca/cpsc340-2017S/home, which requires logging into github.ubc.ca to view. Currently enrolled students should be able to log in; please let the instructor know if this is not the case by the first lecture.
+**NOTE**: This is the web page for the Spring 2017 offering (Jan-Apr 2017) of CPSC 340. For the summer offering, the page is <http://github.ubc.ca/cpsc340-2017S/home>, which requires logging into github.ubc.ca to view. Currently enrolled students should be able to log in; please let the instructor know if this is not the case by the first lecture.
 
 ## Topics covered
 
