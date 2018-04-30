@@ -16,7 +16,6 @@ in January-April 2018 by [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/).
 
 | # | Date | Topic | Related readings and links | 
 |---|--------|--------|---------------------------|
-|   | Jan 1 |         |  _New Year's Day (no class)_ |
 | 1 | Jan 3 | [Syllabus](lectures/L1.pdf?raw=1) | [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Rise of the Machines](http://www.economist.com/news/briefing/21650526-artificial-intelligence-scares-peopleexcessively-so-rise-machines), [Talking Machine Episode 1](http://www.thetalkingmachines.com/blog/2015/1/1/hello-world) |
 | 2 | Jan 5 | [Exploratory data analysis](lectures/L2.ipynb) | [PDF version of lecture](lectures/L2.pdf?raw=1), [Bonus slides](lectures/L2bonus.pdf?raw=1), [Gotta Catch'em all](http://datagenetics.com/blog/april32016/index.html), [Why Not to Trust Statistics](https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/), [Visualization Types](http://guides.library.duke.edu/datavis/vis_types), [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery?hl=en), [Other tools](http://selection.datavisualization.ch/) |
 | | | | |
@@ -61,6 +60,5 @@ in January-April 2018 by [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/).
 | 30 | Mar 26 | [Neural Networks: `fit` & Convolutions](lectures/L30.pdf?raw=1) | [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U) (video, 14min at 1x speed), [Ali Rahimi @ NIPS 2017](https://youtu.be/Qi1Yry33TQE?t=3m) (video, 18min at 1x speed), ML:APP 28.3, ESL 11.5 | 
 | 31 | Mar 28 | [Convolutional Neural Networks](lectures/L31.pdf?raw=1) | [in-class demo](lectures/L31demo.ipynb), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
 | | | | |
-|   | Apr 2 | | _Easter Monday (no class)_ | 
 | 32 | Apr 4  | [More CNNs, deep learning software](lectures/L32.pdf?raw=1)  | [in-class demo](lectures/L32demo.ipynb), [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer), [The Building Blocks of Interpretability (for CNNs)](https://distill.pub/2018/building-blocks/) | 
 | 33 | Apr 6  | [Conclusion](lectures/L33.pdf?raw=1)  | |
