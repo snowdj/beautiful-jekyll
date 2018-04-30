@@ -11,7 +11,7 @@ in January-April 2018 by [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/).
 
 Lecture videos will be posted.
 
-| # | Date | Topic | Related readings and links | 
+| # | Date | Topic, Slides | Related readings and links | 
 |---|--------|--------|---------------------------|
 | 1 | Jan 3 | [Syllabus](lectures/L1.pdf?raw=1) | [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Rise of the Machines](http://www.economist.com/news/briefing/21650526-artificial-intelligence-scares-peopleexcessively-so-rise-machines), [Talking Machine Episode 1](http://www.thetalkingmachines.com/blog/2015/1/1/hello-world) |
 | 2 | Jan 5 | [Exploratory data analysis](lectures/L2.ipynb) | [PDF version of lecture](lectures/L2.pdf?raw=1), [Bonus slides](lectures/L2bonus.pdf?raw=1), [Gotta Catch'em all](http://datagenetics.com/blog/april32016/index.html), [Why Not to Trust Statistics](https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/), [Visualization Types](http://guides.library.duke.edu/datavis/vis_types), [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery?hl=en), [Other tools](http://selection.datavisualization.ch/) |
