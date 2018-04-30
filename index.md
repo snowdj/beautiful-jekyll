@@ -1,188 +1,69 @@
 ---
 layout: page
 title: CPSC 340
-subtitle: Machine Learning and Data Mining (2016W2)
+subtitle: Machine Learning and Data Mining
 ---
 
-**NOTE**: This is the web page for the **2016W2 (Jan-Apr 2017)** offering of CPSC 340. 
 
-## Topics covered
+## Hello!
 
-We introduce basic principles and techniques in the fields of data mining and machine learning. These are some of the key tools behind the emerging field of data science and the popularity of the "big data" buzzword. These techniques are now running behind the scenes to discover patterns and make predictions in various applications in our daily lives. We'll focus on many of the core data mining and machine learning technologies, with motivating applications from a variety of disciplines.
+This site contains materials for CPSC 340 taught at the University of British Columbia
+in January-April 2018 by Mike Gelbart. 
 
-We will roughly cover the following topics:
+## Schedule, slides, links
 
-- Data exploration, cleaning, and preprocessing.
-- Supervised learning with frequencies and distances.
-- Data clustering, outlier detection, and association rules.
-- Linear prediction, regularization, and kernels.
-- Latent-factor models and collaborative filtering.
-- Neural networks and deep learning.
-- Density estimation and Markov models.
-
-For more detailed information, see the course [timetable](https://ubc-cs.github.io/cpsc340/timetable/).
-
-## Who / what / where / when
-
-**Lectures**: MWF 1-2pm in Hugh Dempster Pavilion (DMP) 110
-
-**Tutorials**:
-
-| Section | Place | Time |
-|---------|-------|------|
-| T2A     | DMP 101 | M 4-5 pm |
-| T2B     | DMP 101 | M 3-4 pm |
-| T2C     | DMP 201 | T 2-3pm (but cancelled on Feb 14) |
-
-Tutorials are optional and start on the second week of classes (2017-01-09).  
-
-**Instructor**: [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/)
-
-**Teaching Assistants**: 
-
-- Ricky Chen
-- Ritika Jain
-- Issam Laradji
-- Bita Nejat
-- Wenyi Wang
-
-
-**Office hours**
-
-See the [office hours calendar](https://ubc-cs.github.io/cpsc340/calendar/).
-
-## Prerequisites
-
- - Basic algorithms and data structures (CPSC 221, or both of CPSC 260 and EECE 320 as well as one of CPSC 210, EECE 201, or EECE 309).
- - Linear algebra (one of MATH 152, 221, or 223).
- - Probability (one of STAT 200, STAT 203, STAT 241, STAT 251, STAT 302, MATH 302, MATH 318, or BIOL 300).
- - Multivariate calculus (one of MATH 200, 217, 226, 253, or 263).
-
-NOTE: since multivariate calculus is a new prerequisite, for the 2016-17 year only we are allowing MATH 200 (equivalent) to be taken as a co-requisite provided that the average of the other MATH/STAT prerequisites is at least 76%. Other courses that are helpful but not required include scientific computing (CPSC 302), algorithms and complexity (CPSC 320), and statistical inference (STAT 305).
-
-Undergraduate and graduate students from any department are welcome to take the class, provided that they satisfy the prerequisites. If you do not satisfy the exact prerequisites but would still like to enroll in the class, there are additional details available [here](https://www.cs.ubc.ca/~schmidtm/Courses/340_prereqs.pdf) and [here](https://www.cs.ubc.ca/students/grad/registration/grads-outside-cs).
-
-## Registration
-
-The general seats available in this class usually fill up very quickly. Because of this, we have reserved a small number of restricted seats for CPSC graduate students. These seats will turn into general seats at the end of the first week of class.
-
-Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waitling list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists).
-
-You should sign up for the waiting list even if it is long; a lot of students tend to drop the course. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. You may also want to consider taking related courses from statistics: [STAT 305](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=305), [STAT 306](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=306), [STAT 406](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=406), [STAT 460](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=460), [STAT 461](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=461) (as well as [EOSC 510](https://www.eoas.ubc.ca/courses/eosc510/eosc510.htm)). A discussion of the difference between CPSC 340 and these various STAT classes written by a former student (Geoff Roeder) is available [here](https://www.cs.ubc.ca/~schmidtm/Courses/CPSCvsSTAT.txt).
-
-**Auditing**: because the class/classroom is full, we may not have seats for auditors. If there is space and you would like to audit the course, please contact the instructor.
-
-
-## Textbook
-There is no required textbook for the class. A introductory book that covers many (but not all) the topics we will discuss is the [Artificial Intelligence](http://aima.cs.berkeley.edu/) book of Russell and Norvig (AI:AMA) or the [Artificial Intelligence](http://artint.info/html/ArtInt.html) book of Poole and Mackworth (you may need these for other classes). More advanced books include The [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (ESL) by Hastie et al., Murphy's [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/index.html) (ML:APP) which can be accessed through the library [here](http://site.ebrary.com/lib/ubc/docDetail.action?docID=10597102), and Bishop's [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (PRML). For books with a bigger focus on data mining, see [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php) (IDM) and [Mining of Massive Datasets](http://www.mmds.org/).
-
-Related courses that have online notes
-
-* [Machine Learning and Data Mining](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/) (UBC 2016W1)
-* [Machine Learning and Data Mining](http://www.cs.ubc.ca/~nando/340-2012/) (UBC 2012)
-* [Machine Learning](http://cs229.stanford.edu/materials.html) (Stanford)
-* [Introduction to Machine Learning](http://webdocs.cs.ualberta.ca/~dale/cmput466/w06/notes.html) (Alberta - Schuurmans)
-* [Introduction to Machine Learning](http://webdocs.cs.ualberta.ca/~greiner/C-466/SLIDES/syllabus.html) (Alberta - Greiner)
-* [Introduction to Machine Learning](http://www.eecs.berkeley.edu/~russell/classes/cs194/f11/lectures.html#Week4) (Berkeley)
-* [Practical Machine Learning](http://people.eecs.berkeley.edu/~jordan/courses/294-fall09/) (Berkeley)
-* [Machine Learning](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/) (MIT)
-* [Machine Learning](http://www.cs.cmu.edu/~epxing/Class/10701/lecture.html) (CMU)
-* [Course in Machine Learning](http://ciml.info/) (Maryland)
-* [Principles of Knowledge Discovery in Data](http://webdocs.cs.ualberta.ca/~zaiane/courses/cmput695/F07/695Schedule.html) (Alberta)
-* [Mining Massive Data Sets](http://web.stanford.edu/class/cs246/handouts.html) (Stanford)
-* [Data Mining](http://www.stat.cmu.edu/~ryantibs/datamining/) (CMU)
-
-## Programming environment: Python
-
-We will be using Python for this course because it is open source and widely used in machine learning and data science.  We recommend Python 3.5 because of some minor conveniences: dividing two integers returns a float by default, it has nice syntax like `x@y` for matrix multiplication, etc. However, we recognize that Python 2.7 is still the dominant version (inside and outside machine learning) and therefore we will _try_ to maintain Python 2.7 compatibility in all our materials. You can find more info online; see, for example, [Python 3 in 2016](https://hynek.me/articles/python3-2016/).
-
-We recommend the Anaconda Python distribution because it comes bundled with a bunch of useful libraries (NumPy, SciPy, Jupyter notebook). You can [download Anaconda from their website](https://www.continuum.io/downloads) for free.  
-
-Here are some resources that might help you learn Python. Note that the course staff has not tried out these materials and so we aren't necessarily endorsing them.
-
-- <https://www.codecademy.com/learn/python>
-- <http://greenteapress.com/wp/think-python-2e/>
-- <https://swcarpentry.github.io/python-novice-inflammation/>
-- <https://www.coursera.org/learn/python>
-- <https://www.datacamp.com>
-- <https://www.udacity.com/course/programming-foundations-with-python--ud036>
-- <https://www.coursera.org/learn/python-programming-introduction>
-- <https://www.coursera.org/learn/python-data-analysis>
-- <https://www.coursera.org/learn/principles-of-computing-1>
-- <http://www.cs.ubc.ca/~pcarter/cs189/cs189_ch7.html>
-
-## Grading
-The grading scheme for the course is as follows:
-
-| Component  | Weight  |
-|-------------|-----|
-| Assignments | 25% |
-| Midterm  | 30%
-| Final | 45% |
-
-## Homework submission
-
-All homework submission will take place through [github.ubc.ca](https://github.ubc.ca/). Within UBC GitHub there is an internal course homepage at <https://github.ubc.ca/cpsc340/home>. From there you can access the homework instructions document, which explains how to submit your homework, how to work with a partner, what happens if your homework is late, and more. Please read that document carefully.
-
-## Midterm
-
-The midterm exam will take place on **March 1, 2017 in class**. The exam is closed book except for one double-sided "cheat sheet" on letter-size paper.
-
-**Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, you must provide a justified and documented reason to the instructor. If you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam. 
-
-
-## CPSC 340 vs. CPSC 540
-
-Our department also offers a graduate ML course, CPSC 540. Compared with this course, CPSC 540 has...
-
- - More advanced material.
- - More focus on theory/implementation, less focus on applications.
- - More prerequisites and higher workload.
-
-For almost all students, CPSC 340 is the right class to take.
-
- - CPSC 340 focuses on the most widely-used methods in practice.
- - CPSC 540 is intended as a continuation of CPSC 340.
- - You’ll miss important topics if you skip CPSC 340.
-
-## CPSC 340 in Term 1 vs. Term 2
-
-This (Term 2) offering will follow Mark Schmidt’s Term 1 topics and schedule very closely. The main differences are the switch from Matlab to Python, and the homework submission will be via GitHub.
-
-## Code of Conduct
-
-Aside from all the standard UBC policies and guidelines, here are some additional items:
-
-- Do not post offensive or disrespectful content on 
-or GitHub.
-- If you plan to engage in non-CPSC-340-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates. 
-- If you have a problem or complaint, let me know immediately. Maybe we can fix it! 
-- Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
-- Do not record lectures (audio or video) without permission.
-- If you commit to working with a partner, do your fair share of the work.
-- Think about how/when to ask for help (in person, email, Piazza, etc.)
-   - Don’t ask for help after being stuck for only 10 seconds. Make a reasonable effort to solve your problem. 
-   - _Read all the instructions before asking for help._ Don’t ask questions whose answers are on the course website or homework instructions or on the first page of a Google search. These questions take time away from other instructional activities.
-   - On the other hand, don’t ask for help only after 10 hours of painful debugging. Don’t be shy!
-   - Follow the additional guidelines below on how to ask questions on Piazza.
-
-## Q&A
-We will use [Piazza](https://piazza.com/ubc.ca/winterterm22016/cpsc340/home) for course-related questions. Please consider the following guidelines when asking a question:
-
-- avoid including answers or partial answers in your question/post.
-- do a quick search to make sure your question hasn't already been answered. 
-  - you can filter by tags like "hw1" or do a keyword search
-- if you have a code problem, include as much relevant information as possible like:
-  - your version of Python and relevant libraries
-  - your operating system
-  - the command you used to execute the program 
-  - the entire error message
-- if you want the course staff to review/help debug your code, please use the following protocol:
-  - ask in github.ubc.ca, instead of Piazza, by opening an issue in your personal homework repository.
-  - make sure to tag `@cpsc340/staff` in your issue's text; otherwise, we will not be notified.
-  - include a link to the file you want us to review, and a brief explanation. If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). 
-- if you post a question and then figure out the answer yourself, please do not delete the question. It's still useful. Ideally, you'd post the answer to your own question for others to benefit.
-- (less important, but nice) when using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
-
-## Attribution
-Most of the content on this site was taken (with permission) from [Mark Schmidt's CPSC 340 course homepage](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/).
+| # | Date | Topic | Related readings and links | Homework and tutorials |
+|---|--------|--------|---------------------------|--------------------|
+|   | Jan 1 |         |  _New Year's Day (no class)_ | Tutorial: _cancelled this week_ |
+| 1 | Jan 3 | [Syllabus](lectures/L1.pdf?raw=1) | [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Rise of the Machines](http://www.economist.com/news/briefing/21650526-artificial-intelligence-scares-peopleexcessively-so-rise-machines), [Talking Machine Episode 1](http://www.thetalkingmachines.com/blog/2015/1/1/hello-world) |  [hw0](assignments/a0.zip?raw=1) released
+| 2 | Jan 5 | [Exploratory data analysis](lectures/L2.ipynb) | [PDF version of lecture](lectures/L2.pdf?raw=1), [Bonus slides](lectures/L2bonus.pdf?raw=1), [Gotta Catch'em all](http://datagenetics.com/blog/april32016/index.html), [Why Not to Trust Statistics](https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/), [Visualization Types](http://guides.library.duke.edu/datavis/vis_types), [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery?hl=en), [Other tools](http://selection.datavisualization.ch/) |
+| | | | |
+| 3 | Jan 8 | [Decision trees](lectures/L3.pdf?raw=1)  | [Notes on big-O](https://www.cs.ubc.ca/~schmidtm/Courses/340-F15/notes_BigO.pdf), [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1), [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree_learning), [Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)), [What makes Dr. Seuss so silly?](https://www.washingtonpost.com/news/morning-mix/wp/2015/12/02/scientists-have-figured-out-what-makes-dr-seuss-so-silly/), AI:AMA 18.2-3, ESL: 9.2, ML:APP 16.2 | Tutorial 0: GitHub; Gradients; Python/NumPy. [slides](tutorials/t0.pdf?raw=1)  |
+| 4 | Jan 10 | [Fundamentals of learning](lectures/L4.pdf?raw=1) | [in-class demo](lectures/L4demo.ipynb), [IID](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables), [Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)), [Bias-variance](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff), [No Free Lunch](http://dml.cs.byu.edu/~cgc/docs/mldm_tools/Reading/LCG.pdf), AI: AMA 18.4-5, ESL 7.1-7.4, 7.10, ML:APP 1.4, 6.5 | hw0 due; hw1 released |
+| 5 | Jan 12 | [Non-parametric models: KNN](lectures/L5.pdf?raw=1) | [in-class demo](lectures/L5demo.ipynb), [K-nearest neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), [Decision Theory for Darts](http://www.datagenetics.com/blog/january12012/index.html), AI: AMA 18.8, ESL 13.3, ML:APP 1.4 |  |
+| | | | |
+| 6 | Jan 15 | [Naive Bayes](lectures/L6.pdf?raw=1) | [Notes on probability](https://www.cs.ubc.ca/~schmidtm/Courses/340-F15/notes_probability.pdf), [Extra slides on probability](lectures/probability_notes.pdf), [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability) ([demo](http://setosa.io/ev/conditional-probability/)), [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), [Notes on Naive Bayes](http://www.cs.ubc.ca/~schmidtm/Courses/540-F14/naiveBayes.pdf), [Probabilities and Battleship](http://datagenetics.com/blog/december32011/index.html), ESL 4.3, ML: APP 2.2, 3.5, 4.1-4.2 | Tutorial: hw1 code and practice |
+| 7 | Jan 17 | [Ensemble methods](lectures/L7.pdf?raw=1) | [in-class demo](lectures/L7demo.ipynb), [Ensemble Methods](https://en.wikipedia.org/wiki/Ensemble_learning), [Random Forests](https://en.wikipedia.org/wiki/Random_forest), [Empirical Study](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf), [Kinect](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf), AI: AMA 18.10, ESL: 7.11, 8.2, 15, 16.3, ML: APP 6.2.1, 16.2.5, 16.6 | add/drop deadline; hw1 due
+| 8 | Jan 19 | [Clustering](lectures/L8.pdf?raw=1) | [in-class demo](lectures/L8demo.ipynb), [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis), [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) ([demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)), [K-Means++](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf) ([demo](https://www.youtube.com/watch?v=BIQDlmZDuf8)), [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) ([video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/dbscan.mov), [demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)), IDM 8.1-8.2, ESL: 14.3 | hw2 released |
+| | | | |
+| 9 | Jan 22 | [More clustering, outlier detection](lectures/L9.pdf?raw=1) | [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering), [Phylogenetic Trees](https://en.wikipedia.org/wiki/Phylogenetic_tree), [A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0152173), IDM 8.3-8.4, ESL 14.3.12, ML:APP 25.5, IDM 10.1-10.5  | Tutorial: Random Forests; K-means; Vector Quantization. [slides](tutorials/t3.pdf?raw=1)|
+| 10 | Jan 24 | [What is optimization?](lectures/L10.ipynb) | [PDF version of lecture](lectures/L10.pdf?raw=1), [Notes on convexity](lectures/L10_convexity.pdf?raw=d1) |
+| 11 | Jan 26 | [Linear regression](lectures/L11.pdf?raw=1) | [Linear Regression](http://datagenetics.com/blog/august12013/index.html) ([demo](http://setosa.io/ev/ordinary-least-squares-regression/), [2D data](linear.mp4), [2D video](linear2.mp4)), [Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Partial Derivatives](https://en.wikipedia.org/wiki/Partial_derivative), [Gradient](https://en.wikipedia.org/wiki/Gradient), ESL 3.1-2, ML:APP 7.1-3, AI:AMA 18.6 | hw2 due
+| | | | |
+| 12 | Jan 29 | [The normal equations](lectures/L12.pdf?raw=1) | [Norms](https://en.wikipedia.org/wiki/Norm_(mathematics)), [Notes on Linear Algebra](https://www.cs.ubc.ca/~schmidtm/Documents/2009_Notes_LinearAlgebra.pdf), [Linear/Quadratic Gradients](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/linearQuadraticGradients.pdf), [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf), [The Matrix Cookbook (probably overkill)](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)  | hw3 released; Tutorial: hw3
+| 13 | Jan 31 | [Gradient descent](lectures/L13.ipynb) | [PDF version of lecture](lectures/L13.pdf?raw=1), [bonus slides](lectures/L13bonus.pdf?raw=1), [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent), [Dimensional analysis of gradient descent](http://timvieira.github.io/blog/post/2016/05/27/dimensional-analysis-of-gradient-ascent/), ML:APP 7.4 |
+| 14 | Feb 2 | [Nonlinear regression](lectures/L14.pdf?raw=1) | [in-class demo](lectures/L14demo.ipynb), [Fluid simulation paper](https://www.inf.ethz.ch/personal/ladickyl/fluid_sigasia15.pdf), [Fluid simulation video](https://www.youtube.com/watch?v=kGB7Wd9CudA), ESL 5.1, 6.3, and 6.7 |  
+| | | | |
+| 15 | Feb 5 | [Feature selection and L0-regularization](lectures/L15.pdf?raw=1) | ESL 3.3 | Tutorial: Midterm review
+| 16 | Feb 7 | [L2-Regularization](lectures/L16.pdf?raw=1) | [in-class demo](lectures/L16demo.ipynb), [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 |  |
+| 17 | Feb 9 | [L1-Regularization](lectures/L17.pdf?raw=1) |  | hw3 due
+| | | | |
+| 17.75  | Feb 12 | [Bonus lecture](lectures/L17_and_three_quarters.ipynb) (video available) | _Family day (no class)_ | Tutorial: _cancelled this week_
+|   | Feb 14 | MIDTERM EXAM | Practice exams available [here](/exams). Topics covered: lectures 1-14, assignments 1-3. | If surname starts with A-G, DMP 201; otherwise DMP 110.
+|   | Feb 16 | [Midterm solutions](exams/2017W2midterm_solutions.pdf) |  [Midterm exam questions](exams/2017W2midterm_questions.pdf) | |
+| | | | |
+| | | |  _UBC READING WEEK_ | hw4 released |
+| | | | |
+| 18 | Feb 26 | [Linear classifiers: `predict`](lectures/L18.pdf?raw=1) | [in-class demo](lectures/L18demo.ipynb), [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 | Tutorial: hw4
+| 19 | Feb 28 | [Linear classifiers: `fit`](lectures/L19.pdf?raw=1) | [in-class demo](lectures/L19demo.ipynb), ESL 4.5 and 12.1-2, ML:APP 14.5 |
+| 20 | Mar 2 | [Linear classifiers: multi-class](lectures/L20.pdf?raw=1) | [Gmail Priority Inbox](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf), ML:APP 8.3.7 and 9.3-5, ESL 4.4 |
+| | | | |
+| 21 | Mar 5 | [Kernel methods](lectures/L21.pdf?raw=1) | [in-class demo](lectures/L21demo.ipynb), ESL 12.3, ML:APP 14.1-4 | Tutorial: more hw4
+| 22 | Mar 7 | [Stochastic Gradient](lectures/L22.pdf?raw=1) | [in-class demo](lectures/L22demo.ipynb), [Stochastic Gradient](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), ML:APP 8.5 |
+| 23 | Mar 9 | [Maximum likelihood](lectures/L23.pdf?raw=1) | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation), [max and argmax notes](https://www.cs.ubc.ca/~schmidtm/Courses/540-W16/max.pdf), ESL 3.4, ML:APP 13.3-4 (TODO: verify these book chapters) | hw4 due |
+| | | | |
+| 24 | Mar 12 | [PCA: `predict`](lectures/L24.pdf?raw=1) | [in-class demo](lectures/L24demo.ipynb), [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), ESL 14.5, IDM B.1, ML:APP 12.2 | hw5 released; Tutorial: [kernels](tutorials/Kernel%20Methods.pdf)
+| 25 | Mar 14 | [PCA: `fit`](lectures/L25.pdf?raw=1) | [PCA Explained Visually](http://setosa.io/ev/principal-component-analysis), [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Eigenfaces](https://en.wikipedia.org/wiki/Eigenface) |
+| 26 | Mar 16 | [Sparse Matrix Factorization](lectures/L26.pdf?raw=1) | [in-class demo](lectures/L26demo.ipynb), [sklearn topic modeling demo with NMF](http://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html), [Non-Negative Matrix Factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization), [original NMF paper](http://www.nature.com/nature/journal/v401/n6755/abs/401788a0.html) (you should have access to the PDF when on the UBC network), ESL 14.6, ML: APP 13.8 |
+| | | | |
+| 27 | Mar 19 | [Nonlinear dimensionality reduction](lectures/L27.pdf?raw=1) | [Nonlinear Dimensionality Reduction](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction), [t-SNE video](https://www.youtube.com/watch?v=RJVL80Gg3lA&list=UUtXKDgv1AVoG88PLl8nGXmw), [t-SNE caveats](http://distill.pub/2016/misread-tsne/), ESL 14.8-9, IDM B.2 | Tutorial: hw5
+| 28 | Mar 21 | [Recommender systems](lectures/L28.pdf?raw=1) | [Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system), [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize), [fast.ai video segment on collaborative filtering](https://www.youtube.com/watch?v=V2h3IOBDvrA&feature=youtu.be&t=5761), [Association Rule Learning](https://en.wikipedia.org/wiki/Association_rule_learning), [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm), [Amazon Product Recommendation](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf), IDM 6.1-6.3, ESL 14.2  |
+| 29 | Mar 23 | [Neural Networks: `predict`](lectures/L29.pdf?raw=1) | [in-class demo](lectures/L29demo.ipynb), [But what *is* a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (video, 19min at 1x speed, **highly recommended**), [Google Video](https://www.youtube.com/watch?v=bHvf7Tagt18), [Fortune Article](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), [great list of resources](https://github.com/ChristosChristofidis/awesome-deep-learning), ML:APP 16.5, ESL 11.1-4, AI: AMA 18.7  | hw5 due; hw6 released
+| | | | |
+| 30 | Mar 26 | [Neural Networks: `fit` & Convolutions](lectures/L30.pdf?raw=1) | [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U) (video, 14min at 1x speed), [Ali Rahimi @ NIPS 2017](https://youtu.be/Qi1Yry33TQE?t=3m) (video, 18min at 1x speed), ML:APP 28.3, ESL 11.5 | Tutorial: hw6
+| 31 | Mar 28 | [Convolutional Neural Networks](lectures/L31.pdf?raw=1) | [in-class demo](lectures/L31demo.ipynb), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), ML:APP 28.4, ESL 11.7 |
+|  | Mar 30 | | _Good Friday (no class)_ |
+| | | | |
+|   | Apr 2 | | _Easter Monday (no class)_ | Tutorial: _cancelled this week_ |
+| 32 | Apr 4  | [More CNNs, deep learning software](lectures/L32.pdf?raw=1)  | [in-class demo](lectures/L32demo.ipynb), [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer), [The Building Blocks of Interpretability (for CNNs)](https://distill.pub/2018/building-blocks/) | hw6 due (Thursday 9:00pm) |
+| 33 | Apr 6  | [Conclusion](lectures/L33.pdf?raw=1)  | |

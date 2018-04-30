@@ -17,19 +17,13 @@ baseurl: "/cpsc340"
 title: CPSC 340
 
 # Short description of your site
-description: Machine Learning and Data Mining (2016W2)
+description: Machine Learning and Data Mining (2017W2)
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Course info: "index"
-  Timetable: "timetable"
-  Office hours: "calendar"
-  Links:
-   - Piazza: "https://piazza.com/ubc.ca/winterterm22016/cpsc340/home"
-   - UBC Github: "https://github.ubc.ca/cpsc340" 
-   - Stop/Go: "http://skaha.cs.ubc.ca:11616/cpsc340/"
+  Videos: "TODO"
    
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
