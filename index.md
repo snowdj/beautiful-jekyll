@@ -7,8 +7,10 @@ subtitle: Machine Learning and Data Mining
 
 ## Hello!
 
-This site contains materials for CPSC 340 taught at the University of British Columbia
-in January-April 2018 by Mike Gelbart. 
+This site contains materials for CPSC 340 (Machine Learning and Data Mining) 
+taught at the University of British Columbia
+in January-April 2018 by [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/). 
+
 
 ## Schedule, slides, links
 
@@ -23,7 +25,7 @@ in January-April 2018 by Mike Gelbart.
 | 5 | Jan 12 | [Non-parametric models: KNN](lectures/L5.pdf?raw=1) | [in-class demo](lectures/L5demo.ipynb), [K-nearest neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm), [Decision Theory for Darts](http://www.datagenetics.com/blog/january12012/index.html), AI: AMA 18.8, ESL 13.3, ML:APP 1.4 | 
 | | | | |
 | 6 | Jan 15 | [Naive Bayes](lectures/L6.pdf?raw=1) | [Notes on probability](https://www.cs.ubc.ca/~schmidtm/Courses/340-F15/notes_probability.pdf), [Extra slides on probability](lectures/probability_notes.pdf), [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability) ([demo](http://setosa.io/ev/conditional-probability/)), [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), [Notes on Naive Bayes](http://www.cs.ubc.ca/~schmidtm/Courses/540-F14/naiveBayes.pdf), [Probabilities and Battleship](http://datagenetics.com/blog/december32011/index.html), ESL 4.3, ML: APP 2.2, 3.5, 4.1-4.2 | 
-| 7 | Jan 17 | [Ensemble methods](lectures/L7.pdf?raw=1) | [in-class demo](lectures/L7demo.ipynb), [Ensemble Methods](https://en.wikipedia.org/wiki/Ensemble_learning), [Random Forests](https://en.wikipedia.org/wiki/Random_forest), [Empirical Study](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf), [Kinect](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf), AI: AMA 18.10, ESL: 7.11, 8.2, 15, 16.3, ML: APP 6.2.1, 16.2.5, 16.6 | add/drop deadline; hw1 due
+| 7 | Jan 17 | [Ensemble methods](lectures/L7.pdf?raw=1) | [in-class demo](lectures/L7demo.ipynb), [Ensemble Methods](https://en.wikipedia.org/wiki/Ensemble_learning), [Random Forests](https://en.wikipedia.org/wiki/Random_forest), [Empirical Study](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf), [Kinect](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf), AI: AMA 18.10, ESL: 7.11, 8.2, 15, 16.3, ML: APP 6.2.1, 16.2.5, 16.6 | 
 | 8 | Jan 19 | [Clustering](lectures/L8.pdf?raw=1) | [in-class demo](lectures/L8demo.ipynb), [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis), [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) ([demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)), [K-Means++](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf) ([demo](https://www.youtube.com/watch?v=BIQDlmZDuf8)), [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) ([video](https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/dbscan.mov), [demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)), IDM 8.1-8.2, ESL: 14.3 | 
 | | | | |
 | 9 | Jan 22 | [More clustering, outlier detection](lectures/L9.pdf?raw=1) | [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering), [Phylogenetic Trees](https://en.wikipedia.org/wiki/Phylogenetic_tree), [A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0152173), IDM 8.3-8.4, ESL 14.3.12, ML:APP 25.5, IDM 10.1-10.5  | 
