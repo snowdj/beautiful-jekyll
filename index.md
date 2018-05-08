@@ -6,10 +6,9 @@ subtitle: Machine Learning and Data Mining
 
 
 Hello! This site contains materials for CPSC 340 (Machine Learning and Data Mining) 
-taught at the University of British Columbia
-in January-April 2018 by [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/). 
+taught at the University of British Columbia in January-April 2018 by [Mike Gelbart](http://www.cs.ubc.ca/~mgelbart/). 
 
-Lecture videos will be posted.
+The lecture videos are available [here](https://www.youtube.com/watch?v=jBslaEzFJCE&index=0&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b).
 
 | # | Date | Topic, Slides | Related readings and links | 
 |---|--------|--------|---------------------------|
